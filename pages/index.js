@@ -15,6 +15,7 @@ export default function Home() {
             layout="fill"
             objectFit="cover"
             alt="Selçuk, İzmir, Türkiye"
+            className="transform transition-all duration-700  hover:scale-105"
           />
           <h2 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-8xl ">
             see
@@ -26,6 +27,7 @@ export default function Home() {
             layout="fill"
             objectFit="cover"
             alt="Turkish kebab, şiş kebab"
+            className="transform transition-all duration-700  hover:scale-105"
           />
           <h2 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-8xl ">
             taste
@@ -37,6 +39,7 @@ export default function Home() {
             layout="fill"
             objectFit="cover"
             alt="Grande Bazaar, Fatih, Turkey"
+            className="transform transition-all duration-700  hover:scale-105"
           />
           <h2 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-8xl ">
             smell
@@ -48,6 +51,7 @@ export default function Home() {
             layout="fill"
             objectFit="cover"
             alt="Marmaris, Muğla, Turkey"
+            className="transform transition-all duration-700  hover:scale-105"
           />
           <h2 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-8xl ">
             touch
@@ -59,6 +63,7 @@ export default function Home() {
             layout="fill"
             objectFit="cover"
             alt="Beach | Kaş/Antalya, Türkiye"
+            className="transform transition-all duration-700  hover:scale-105"
           />
           <h2 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 transform text-8xl ">
             listen
